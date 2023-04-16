@@ -24,3 +24,4 @@
 | #  | Title     | Description                |
 | :-------- | :------- | :------------------------- |
 | 1 | Airquality TEMP | Making a hectograph based on the frequency of Temperatures in New York City from May 1 - September 30, 1973 |
+| 2 | CARS93 TYPES | Making a bargraph based on the frequency of the TYPES of cars manufactured in 1993.|
