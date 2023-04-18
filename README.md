@@ -26,7 +26,10 @@
 | #  | Title     | Description                |
 | :-------- | :------- | :------------------------- |
 | 1 | Airquality TEMP | Making a hectograph based on the frequency of Temperatures in New York City from May 1 - September 30, 1973, |
-| 2 | CARS93 TYPES | Making a bar graph based on the frequency of the TYPES of cars manufactured in 1993.|
+| 2 | Simple BarPlot with CARS93 data| Making a bar graph based on the frequency of the TYPES of cars manufactured in 1993.|
 | 3 | Males Hair-To-Eye_Color | Analytical Data Analysis of Male Hair and Eye Color Frequencies Using Bar Plot.|
 | 4 | Females Hair-To-Eye_Color | Exploratory Data Analysis of Hair and Eye Color Frequencies in Females Using Bar Plot.|
 | 5 | Grouping Origins of cars by Type | Comparison of USA and non-USA Cars by Type: A Grouped Bar Plot Analysis of Cars93 Data.|
+| 6 | Simple Pie Chart with Cars93 Data | Pie Chart of Car Types in the Cars93 Dataset.|
+| 7 | Simple Scatterplot with Airquality Data | Scatterplot of Temperature vs Wind Velocity in the Airquality Dataset.|
+| 8 | Simple Boxplot with Airquality Data | Boxplot of Temperature by Month in Airquality Dataset.|
