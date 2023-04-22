@@ -34,3 +34,4 @@
 | 7 | Simple Scatterplot with Airquality Data | Scatterplot of Temperature vs Wind Velocity in the Airquality Dataset.|
 | 8 | Simple Boxplot with Airquality Data | Boxplot of Temperature by Month in Airquality Dataset.|
 | 9 | Hair Eye Color Visualization | Distribution of Hair and Eye Color Frequencies.|
+| 10 | A Barplot of Cars93 Dataset with GGplot | Car Type and Frequency in the Cars93 Dataset.|
