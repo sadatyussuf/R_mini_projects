@@ -33,3 +33,4 @@
 | 6 | Simple Pie Chart with Cars93 Data | Pie Chart of Car Types in the Cars93 Dataset.|
 | 7 | Simple Scatterplot with Airquality Data | Scatterplot of Temperature vs Wind Velocity in the Airquality Dataset.|
 | 8 | Simple Boxplot with Airquality Data | Boxplot of Temperature by Month in Airquality Dataset.|
+| 9 | Hair Eye Color Visualization | Distribution of Hair and Eye Color Frequencies.|
