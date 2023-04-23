@@ -36,3 +36,4 @@
 | 9 | Hair Eye Color Visualization | Distribution of Hair and Eye Color Frequencies.|
 | 10 | A Barplot of Cars93 Dataset with GGplot | Car Type and Frequency in the Cars93 Dataset.|
 | 11 | Population Age Distribution with GGplot | Grouped Bar Plot of Population Age Distribution in Selected Countries.|
+| 11 | Air Quality Analysis with GGplot's Scatterplot | Analysis of the Effect of Wind and Ozone on Temperature in Air Quality Data.|
