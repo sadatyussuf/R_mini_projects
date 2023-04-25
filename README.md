@@ -10,6 +10,7 @@
 | 5 | [Word Count](https://exercism.org/tracks/r/exercises/word-count)  | The task is to count how many times each word occurs in a subtitle of a drama. |
 | 6 | [Tournament](https://exercism.org/tracks/r/exercises/tournament)  | The task is to tally the results of a small football competition based on an input file containing which team played against which and what the outcome was. |
 | 7 | [Phone Number](https://exercism.org/tracks/r/exercises/phone-number)  | The task is to clean up user-entered phone numbers so that they can be sent via SMS messages. |
+| 8 | [Rotational Cipher](https://exercism.org/tracks/r/exercises/rotational-cipher)  | Create an implementation of the rotational cipher, also sometimes called the Caesar cipher. |
 
 
 
