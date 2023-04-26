@@ -38,3 +38,4 @@
 | 10 | A Barplot of Cars93 Dataset with GGplot | Car Type and Frequency in the Cars93 Dataset.|
 | 11 | Population Age Distribution with GGplot | Grouped Bar Plot of Population Age Distribution in Selected Countries.|
 | 11 | Air Quality Analysis with GGplot's Scatterplot | Analysis of the Effect of Wind and Ozone on Temperature in Air Quality Data.|
+| 12 | Air Quality Analysis with GGally | An R script analyzing the air quality dataset using the GGally package for creating a matrix of scatterplots between variables, and ggplot2 for visualizing individual plots.|
