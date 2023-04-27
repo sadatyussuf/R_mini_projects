@@ -40,3 +40,4 @@
 | 11 | Air Quality Analysis with GGplot's Scatterplot | Analysis of the Effect of Wind and Ozone on Temperature in Air Quality Data.|
 | 12 | Air Quality Analysis with GGally | An R script analyzing the air quality dataset using the GGally package for creating a matrix of scatterplots between variables, and ggplot2 for visualizing individual plots.|
 | 13 |Boxplot of Monthly Temperature in New York City | This R script reads in the airquality dataset and creates a boxplot of the temperature for each month in New York City. |
+| 14 |Boxplot of Pre-treatment Weights for Three Anorexia Treatment Groups | This script creates a boxplot with points overlaid to compare the pre-treatment weights of patients in three different treatment groups for anorexia.|
