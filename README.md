@@ -41,3 +41,4 @@
 | 12 | Air Quality Analysis with GGally | An R script analyzing the air quality dataset using the GGally package for creating a matrix of scatterplots between variables, and ggplot2 for visualizing individual plots.|
 | 13 |Boxplot of Monthly Temperature in New York City | This R script reads in the airquality dataset and creates a boxplot of the temperature for each month in New York City. |
 | 14 |Boxplot of Pre-treatment Weights for Three Anorexia Treatment Groups | This script creates a boxplot with points overlaid to compare the pre-treatment weights of patients in three different treatment groups for anorexia.|
+| 15 |Analysis of Daily Total Precipitation in Boulder Creek from August to October 2013 | This R code reads daily precipitation data from a CSV file, filters the data to include observations from August to October 2013, and creates a bar plot of the daily total precipitation during the selected period. |
