@@ -42,3 +42,4 @@
 | 13 |Boxplot of Monthly Temperature in New York City | This R script reads in the airquality dataset and creates a boxplot of the temperature for each month in New York City. |
 | 14 |Boxplot of Pre-treatment Weights for Three Anorexia Treatment Groups | This script creates a boxplot with points overlaid to compare the pre-treatment weights of patients in three different treatment groups for anorexia.|
 | 15 |Analysis of Daily Total Precipitation in Boulder Creek from August to October 2013 | This R code reads daily precipitation data from a CSV file, filters the data to include observations from August to October 2013, and creates a bar plot of the daily total precipitation during the selected period. |
+| 16 |Daily Precipitation - Boulder, Colorado  from 2003 to 2013|This script reads in a dataset containing daily precipitation values in inches for Boulder, Colorado from 2003 to 2013.The data is also faceted by year to show how precipitation varies over time.|
