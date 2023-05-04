@@ -46,3 +46,6 @@
 | 17 | Monthly Total Daily Precipitation in Boulder, Colorado from 2003 to 2013 | This script reads in a daily precipitation dataset for Boulder, Colorado from 2003 to 2013 and aggregates the data by month and year to create a bar chart of monthly total daily precipitation. |
 | 18 | Stream Discharge (CFS) - Boulder Creek 1986-2016 | This script reads in daily stream discharge data for Boulder Creek for the years 1986-2013 and creates a scatter plot of the discharge values for the period between 1986-2016 |
 | 19 | Daily Total Precipitation - Boulder Station, 1948-2013 | This script reads in daily precipitation data from Boulder Station spanning from 1948 to 2013, and calculates the total daily precipitation for each day from January to September 2013.  |
+| 20 | Visualization of Stream Discharge Time Series with Plotly and DyGraph | This script reads in a daily stream discharge dataset spanning from 1986-2013, and creates interactive time series visualizations of the data using the dygraphs package.  |
+
+ 
