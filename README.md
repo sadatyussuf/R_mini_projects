@@ -47,5 +47,6 @@
 | 18 | Stream Discharge (CFS) - Boulder Creek 1986-2016 | This script reads in daily stream discharge data for Boulder Creek for the years 1986-2013 and creates a scatter plot of the discharge values for the period between 1986-2016 |
 | 19 | Daily Total Precipitation - Boulder Station, 1948-2013 | This script reads in daily precipitation data from Boulder Station spanning from 1948 to 2013, and calculates the total daily precipitation for each day from January to September 2013.  |
 | 20 | Visualization of Stream Discharge Time Series with Plotly and DyGraph | This script reads in a daily stream discharge dataset spanning from 1986-2013, and creates interactive time series visualizations of the data using the dygraphs package.  |
+| 21 | Life Expectancy over Time in Ghana |  This script loads life expectancy data from the World Bank and continent data from Our World in Data, cleans and processes the data using dplyr and tidyr, and then creates a plot of Ghana's life expectancy over time from 1960 to 2022 using ggplot2. The plot shows a scatter plot of the data points and a line connecting them. |
 
  
