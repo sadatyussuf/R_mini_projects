@@ -49,7 +49,8 @@
 | 20 | Visualization of Stream Discharge Time Series with Plotly and DyGraph | This script reads in a daily stream discharge dataset spanning from 1986-2013, and creates interactive time series visualizations of the data using the dygraphs package.  |
 | 21 | Life Expectancy over Time in Ghana |  This script loads life expectancy data from the World Bank and continent data from Our World in Data, cleans and processes the data using dplyr and tidyr, and then creates a plot of Ghana's life expectancy over time from 1960 to 2022 using ggplot2. The plot shows a scatter plot of the data points and a line connecting them. |
 | 22 | Interactive Histogram of Random Value with Shiny & R plot|  This script generates a histogram of a user-specified number of random values between 0 and 1 using Shiny slider. The histogram displays the frequency distribution of the generated values. Additionally, the script calculates and displays the mean, median, and standard deviation of the generated values. |
-| 23 | Interactive Histogram of Random Value with Shiny & GGplot |  This script generates a histogram of a user-specified number of random values between 0 and 1 using Shiny slider. The plot is displayed using ggplot2, and summary statistics including mean, median, and standard deviation are displayed below the plot.|
+| 23 |Interactive Scatterplot with Correlation and Regression Line |  This script generates a histogram of a user-specified number of random values between 0 and 1 using Shiny slider. The plot is displayed using ggplot2, and summary statistics including mean, median, and standard deviation are displayed below the plot.|
+| 24 | Interactive Histogram of Random Value with Shiny & GGplot |  This script uses the shiny package to create an interactive scatterplot with the airquality dataset. The plot includes a regression line and displays the correlation coefficient between the selected variables on the x-axis and y-axis. |
 
 
  
