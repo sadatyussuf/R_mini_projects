@@ -23,7 +23,7 @@
 
 
 
-## Easy R Projects
+## Mini R Projects
 | #  | Title     | Description                |
 | :-------- | :------- | :------------------------- |
 | 1 | Airquality TEMP | Making a hectograph based on the frequency of Temperatures in New York City from May 1 - September 30, 1973, |
