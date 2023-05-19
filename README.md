@@ -23,7 +23,7 @@
 
 
 
-## Mini R Projects
+## Easy R Projects
 | #  | Title     | Description                |
 | :-------- | :------- | :------------------------- |
 | 1 | Airquality TEMP | Making a hectograph based on the frequency of Temperatures in New York City from May 1 - September 30, 1973, |
@@ -51,6 +51,7 @@
 | 22 | Interactive Histogram of Random Value with Shiny & R plot|  This script generates a histogram of a user-specified number of random values between 0 and 1 using Shiny slider. The histogram displays the frequency distribution of the generated values. Additionally, the script calculates and displays the mean, median, and standard deviation of the generated values. |
 | 23 |Interactive Scatterplot with Correlation and Regression Line |  This script generates a histogram of a user-specified number of random values between 0 and 1 using Shiny slider. The plot is displayed using ggplot2, and summary statistics including mean, median, and standard deviation are displayed below the plot.|
 | 24 | Interactive Histogram of Random Value with Shiny & GGplot |  This script uses the shiny package to create an interactive scatterplot with the airquality dataset. The plot includes a regression line and displays the correlation coefficient between the selected variables on the x-axis and y-axis. |
+| 25 | Density pPots for the Variables of Iris.uci |  This script creates a density plot from the variables of the Iris dataset |
 
 
  
