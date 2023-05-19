@@ -52,6 +52,7 @@
 | 23 |Interactive Scatterplot with Correlation and Regression Line |  This script generates a histogram of a user-specified number of random values between 0 and 1 using Shiny slider. The plot is displayed using ggplot2, and summary statistics including mean, median, and standard deviation are displayed below the plot.|
 | 24 | Interactive Histogram of Random Value with Shiny & GGplot |  This script uses the shiny package to create an interactive scatterplot with the airquality dataset. The plot includes a regression line and displays the correlation coefficient between the selected variables on the x-axis and y-axis. |
 | 25 | Density pPots for the Variables of Iris.uci |  This script creates a density plot from the variables of the Iris dataset |
+| 26 |  Exploratory Data Analysis of Iris Dataset using GGally Package |   The analysis provides insights into the relationships between different features of the Iris flowers. |
 
 
  
